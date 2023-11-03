@@ -1,0 +1,5 @@
+login: 'AnSmirnova'
+password: '23ab37de1f'
+url_base: 'https://test-stand.gb.ru'
+url_get: 'https://test-stand.gb.ru/api/users/profile'
+url_auto: 'https://test-stand.gb.ru/gateway/login'
